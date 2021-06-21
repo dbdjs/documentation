@@ -24,6 +24,7 @@ Then you must add the following `revertReading` below the options.
 const dbd = require("dbd.js")
 
 const bot = new dbd.Bot({
+  intents: true,
   prefix: "!", //Prefix is able to be changed
   revertReading: true, //true or false
 })
