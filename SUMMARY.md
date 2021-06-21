@@ -2,3 +2,7 @@
 
 * [Introduction](README.md)
 
+## Functions
+
+* [$authorID](functions/authorid.md)
+
