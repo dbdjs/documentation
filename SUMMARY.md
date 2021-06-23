@@ -10,4 +10,6 @@
 
 * [$authorID](functions/authorid.md)
 * [$botPing](functions/botping.md)
+* [$packageVersion](functions/packageversion.md)
+* [$ping](functions/ping.md)
 
